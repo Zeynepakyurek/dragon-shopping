@@ -1,12 +1,12 @@
 [
-  { "Id": "110", "name": "red dragon", "priceUSD": 100, "isRare": false },
-  { "Id": "111", "name": "green dragon", "priceUSD": 25, "isRare": false },
-  { "Id": "112", "name": "black dragon", "priceUSD": 50, "isRare": true },
-  { "Id": "113", "name": "gold dragon", "priceUSD": 15, "isRare": false },
-  { "Id": "114", "name": "chaos dragon", "priceUSD": 300, "isRare": true },
-  { "Id": "115", "name": "silver dragon", "priceUSD": 5, "isRare": false },
-  { "Id": "116", "name": "platinium dragon", "priceUSD": 10, "isRare": false },
-  { "Id": "117", "name": "bronze dragon", "priceUSD": 100, "isRare": false },
-  { "Id": "118", "name": "etheral dragon", "priceUSD": 700, "isRare": true },
-  { "Id": "119", "name": "undead dragon", "priceUSD": 500, "isRare": true }
+  { "id": "110", "name": "red dragon", "priceUSD": 100, "isRare": false },
+  { "id": "111", "name": "green dragon", "priceUSD": 25, "isRare": false },
+  { "id": "112", "name": "black dragon", "priceUSD": 50, "isRare": true },
+  { "id": "113", "name": "gold dragon", "priceUSD": 15, "isRare": false },
+  { "id": "114", "name": "chaos dragon", "priceUSD": 300, "isRare": true },
+  { "id": "115", "name": "silver dragon", "priceUSD": 5, "isRare": false },
+  { "id": "116", "name": "platinium dragon", "priceUSD": 10, "isRare": false },
+  { "id": "117", "name": "bronze dragon", "priceUSD": 100, "isRare": false },
+  { "id": "118", "name": "etheral dragon", "priceUSD": 700, "isRare": true },
+  { "id": "119", "name": "undead dragon", "priceUSD": 500, "isRare": true }
 ]
